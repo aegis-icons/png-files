@@ -1,6 +1,6 @@
 # Legacy PNG icons for aegis-icons
 
-As of 2021-07-25, aegis-icons doesn't actively make PNG files. [Please read the notice!](.github/NOTICE.md)
+As of 2021-07-25, aegis-icons doesn't actively make PNG files. [Please read the notice!](NOTICE.md)
  
 ## Credits
 - [2FA Directory](https://2fa.directory/) ([MIT](https://github.com/2factorauth/twofactorauth/blob/master/LICENSE.md))
