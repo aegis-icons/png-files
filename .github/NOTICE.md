@@ -2,5 +2,5 @@ As of 2021-07-25, PNG files are not actively made **unless someone reports rende
 
 If you are still using Aegis v1.4.2 or older, please **upgrade to Aegis v2.0.1 or newer** to take advantage of [icon pack feature](https://github.com/aegis-icons/aegis-icons/blob/master/FAQ.md#with-icon-pack) and smaller export file sizes with SVG icons.
 
-- [<< To PNG file listings](https://github.com/aegis-icons/png-files)
-- [<< Back to "aegis-icons" repository](https://github.com/aegis-icons/aegis-icons)
+[<< To PNG file listings](https://github.com/aegis-icons/png-files) \
+[<< Back to "aegis-icons" repository](https://github.com/aegis-icons/aegis-icons)
